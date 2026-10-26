@@ -1,0 +1,17 @@
+{
+  "base": "",
+  "routes": [
+    "/",
+    "/equipment",
+    "/equipment/coffee",
+    "/equipment/cafe",
+    "/equipment/restaurant",
+    "/support",
+    "/support/start",
+    "/support/business",
+    "/support/full",
+    "/iiko",
+    "/about",
+    "/privacy"
+  ]
+}
